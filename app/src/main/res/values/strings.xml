@@ -1,5 +1,13 @@
 <resources>
-    <string name="app_name">Lab1</string>
+    <string name="app_name">Lab2</string>
     <string name="hello_message">Hello world!</string>
     <string name="ButtonText">I\'m a Button</string>
+    <string name="Login">Login</string>
+    <string name="Password">Password</string>
+    <string name="SwitchOn">Switch is On</string>
+    <string name="SwitchOff">Switch is Off</string>
+    <string name="dialog_message">Do You Want To Finish Activity?</string>
+    <string name="dialog_title">TITLE</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
 </resources>
